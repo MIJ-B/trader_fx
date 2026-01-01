@@ -1,0 +1,4 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.0
